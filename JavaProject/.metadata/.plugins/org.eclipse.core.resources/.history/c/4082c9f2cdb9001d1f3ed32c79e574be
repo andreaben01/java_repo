@@ -1,0 +1,22 @@
+package projectJava;
+
+public class Ejerc_Clase3 {
+	
+	public static void main(String[] args) {
+		
+		int numeros[] = new int[3];
+		
+		numeros[0] = 1;
+		numeros[1] = 37;
+		numeros[2] = 16;
+		
+		System.out.println(numeros.length);
+		
+		for(int indice = 0; indice < indice; indice++) {
+			System.out.println(numeros[2]);
+		}
+		
+		
+		
+	}
+}

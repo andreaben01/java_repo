@@ -1,0 +1,14 @@
+package projectJava;
+
+public class String_ejemplos {
+
+	public static void main(String[] args) {
+
+		String x = "hola";
+		
+		
+		
+		
+	}
+
+}
